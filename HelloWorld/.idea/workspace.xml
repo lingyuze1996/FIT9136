@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92f79bd7-e001-4c15-80b5-2074cb2d319b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +47,6 @@
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -56,7 +54,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -105,7 +103,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -116,6 +116,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test pycharm-git" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586615202801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586615202801" />
     <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586607208479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -124,10 +128,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="120" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586600468605" />
-    <state x="465" y="108" key="FileChooserDialogImpl" timestamp="1586606972695">
+    <state x="465" y="108" key="FileChooserDialogImpl" timestamp="1586608823222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="465" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586606972695" />
+    <state x="465" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586608823222" />
     <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1586600802961">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -144,18 +148,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586600802961" />
-    <state x="113" y="5" width="998" height="708" key="SettingsEditor" timestamp="1586607019166">
+    <state x="113" y="5" width="998" height="708" key="SettingsEditor" timestamp="1586615185415">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="113" y="5" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586607019166" />
+    <state x="113" y="5" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586615185415" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586607280147">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586607280147" />
-    <state x="370" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586606945572">
+    <state x="370" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586615148643">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="370" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586606945572" />
+    <state x="370" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586615148643" />
     <state x="344" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586600711948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
