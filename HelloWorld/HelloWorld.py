@@ -9,8 +9,8 @@ print(summ)
 
 
 def eg(ii, jj):
-    k = 2 * ii + jj
-    return k ** 15
+    k = 4 * ii - jj
+    return k ** 4
 
 
 print(eg(1, 3))
