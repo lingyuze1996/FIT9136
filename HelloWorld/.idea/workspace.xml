@@ -20,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -84,10 +84,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="120" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586600468605" />
-    <state x="465" y="108" key="FileChooserDialogImpl" timestamp="1586605651766">
+    <state x="465" y="108" key="FileChooserDialogImpl" timestamp="1586606972695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="465" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586605651766" />
+    <state x="465" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586606972695" />
     <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1586600802961">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -104,14 +104,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586600802961" />
-    <state x="113" y="5" width="998" height="708" key="SettingsEditor" timestamp="1586605781031">
+    <state x="113" y="5" width="998" height="708" key="SettingsEditor" timestamp="1586607019166">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="113" y="5" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586605781031" />
-    <state x="370" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586605106058">
+    <state x="113" y="5" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586607019166" />
+    <state x="370" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586606945572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="370" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586605106058" />
+    <state x="370" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586606945572" />
     <state x="344" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586600711948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

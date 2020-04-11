@@ -10,7 +10,7 @@ print(summ)
 
 def eg(ii, jj):
     k = 2 * ii + jj
-    return k ** 3
+    return k ** 15
 
 
 print(eg(1, 3))
