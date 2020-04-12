@@ -1,6 +1,12 @@
 """
+Author: Yuze Ling
+
+Created: Apr 12 2020
+Last modified: Apr 12 2020
+
 Lab 4: Data Types
 """
+
 
 # Task 1: Sets
 
